@@ -1,6 +1,10 @@
 # Components_Intro
 Code examples for intro to components in Front-End development + Example for the differences between computed to methods in Vue.Js
 
+## Files in Repo
+
+### App.vue - The inital App components, no other components
+### Src/* - The components structure after splitting
 
 ## How to run the code with vue-cli
 
