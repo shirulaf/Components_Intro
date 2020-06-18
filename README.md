@@ -4,7 +4,7 @@ Code examples for intro to components in Front-End development + Example for the
 ## Files in Repo
 
 ### App.vue
-The inital App components, no other components
+The inital App component with all the logic, no other components
 ### src/* 
 The components structure after splitting
 
